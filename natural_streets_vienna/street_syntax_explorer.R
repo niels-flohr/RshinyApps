@@ -34,7 +34,7 @@ ipak(packages)
 
 # load data from my github
 #-----------------------------------------------------------------------------------------------------------------------
-natural_roads_link <- "https://github.com/niels-flohr/shiny/natural_streets_vienna/raw/master/vienna.geojson"
+natural_roads_link <- "https://github.com/niels-flohr/RshinyApps/raw/master/natural_streets_vienna/vienna.geojson"
 natural_roads <- geojson_read(natural_roads_link, what = "sp")
 #-----------------------------------------------------------------------------------------------------------------------
 
