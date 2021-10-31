@@ -2,7 +2,9 @@
 
 some shiny apps
 
-how to run in R: 
+---
+
+**how to run in R:** 
 
 ```
 library(shiny)
