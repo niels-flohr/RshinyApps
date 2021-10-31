@@ -2,7 +2,15 @@
 
 some shiny apps
 
-how to run: https://github.com/rstudio/shiny_example
+how to run in R: 
+
+```
+library(shiny)
+
+runGitHub("RshinyApps", "niels-flohr", subdir = "natural_streets_vienna/")
+```
+
+see also https://github.com/rstudio/shiny_example
 
 ---
 
