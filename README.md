@@ -4,6 +4,8 @@ some shiny apps
 
 how to run: https://github.com/rstudio/shiny_example
 
+---
+
 ## Natural Streets Explorer Vienna
 
 - Spatial Analysis Parameters:  range of spatial property parameters derived from the connectivity graph
